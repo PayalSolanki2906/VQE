@@ -4,13 +4,15 @@ This repository concerns with the Variational Quantum Eigensolver (VQE). The imp
 
 ## Problem statement
 
-In this repository, we use the VQE to find the roots of two quadratic equations: $x^2-2x+1$ and $x^2-4x+4$.
+In this repository, I use the VQE to find the roots of two quadratic equations: $x^2-2x+1$ and $x^2-4x+4$.
 
-## Result
-
-We have used the VQE to estimate the roots of the equations $x^2-2x+1$ and $x^2-4x+4$. The estimated values for the roots are 0.9999999999999984 and 1.9999999999999998, respectively.
-
-## Libraries
+## Libraries used
 Python - 3.9.13 \
 Scipy - 1.9.1\
 Qiskit - 0.41.0
+
+
+## Result
+
+I have used the VQE to estimate the roots of the equations $x^2-2x+1$ and $x^2-4x+4$. The estimated values for the roots are 0.9999999999999984 and 1.9999999999999998, respectively.
+
